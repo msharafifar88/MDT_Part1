@@ -1,0 +1,95 @@
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.exe
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.deps.json
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.runtimeconfig.json
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.pdb
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.AssemblyReference.cache
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfoInputs.cache
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfo.cs
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CoreCompileInputs.cache
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CopyComplete
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\refint\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.pdb
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.genruntimeconfig.cache
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\obj\Debug\net6.0\ref\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\MDT_part1_App\bin\Debug\net6.0\appsettings.json
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfoInputs.cache
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfo.cs
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CoreCompileInputs.cache
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.exe
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\appsettings.json
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\data.json
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.deps.json
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.runtimeconfig.json
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\ref\MDT_part1_App.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.pdb
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\System.Text.Json.dll
+D:\MDT\MDT_part1_App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.AssemblyReference.cache
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CopyComplete
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.dll
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\ref\MDT_part1_App.dll
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.pdb
+D:\MDT\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.genruntimeconfig.cache
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.exe
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\data.json
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.deps.json
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.runtimeconfig.json
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\MDT_part1_App.pdb
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.AssemblyReference.cache
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfoInputs.cache
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.AssemblyInfo.cs
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CoreCompileInputs.cache
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.csproj.CopyComplete
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\refint\MDT_part1_App.dll
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.pdb
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\MDT_part1_App.genruntimeconfig.cache
+D:\OneDrive - York University\Desktop\MDT\Part1\MDT_part1_App\obj\Debug\net6.0\ref\MDT_part1_App.dll
